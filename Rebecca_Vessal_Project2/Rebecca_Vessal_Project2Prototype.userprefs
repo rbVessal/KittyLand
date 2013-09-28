@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\LostKitten.cs">
+    <Files>
+      <File FileName="Assets\Scripts\LostKitten.cs" Line="231" Column="37" />
+      <File FileName="Assets\Scripts\Steering.cs" Line="31" Column="45" />
+      <File FileName="Assets\Scripts\Dimensions.cs" Line="25" Column="44" />
+      <File FileName="Assets\Scripts\FlockManager.cs" Line="31" Column="27" />
+      <File FileName="Assets\Scripts\Flocking.cs" Line="26" Column="2" />
+      <File FileName="Assets\Scripts\Player.cs" Line="293" Column="71" />
+      <File FileName="Assets\Scripts\BehindObject.cs" Line="16" Column="79" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
